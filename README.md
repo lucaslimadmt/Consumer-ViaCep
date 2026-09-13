@@ -20,12 +20,3 @@ Aplicação em Console C# (.NET) desenvolvida para consumir a API pública do Vi
 - **System.Text.Json** para serialização/desserialização de dados
 
 ---
-
-## 📂 Estrutura do Projeto
-
-```text
-ConsumerViaCep/
-├── Models/
-│   └── Endereco.cs
-├── Program.cs
-└── ConsumerViaCep.csproj
